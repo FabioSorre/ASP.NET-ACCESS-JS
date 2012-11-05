@@ -1,0 +1,30 @@
+
+div{border: thin solid white; }
+
+h1{text-align:center; color:red;}
+h2{text-align:center; color:black;}
+h3{text-align:left; color:red;}
+
+th {font-style: italic; border: thin solid Aqua;}
+td { border: thin solid Aqua;}
+.qcont { text-align: center;}
+table { margin: auto; } 
+
+
+p.header{text-align:right; font-style:italic; color:black;}
+p.nomeNegozio{text-align:center; font-style:italic; font-weight:bold; color:red; font-size: 110%;}
+p.fraseApertura{text-align:center; font-style:italic; color:purple; font-size:95%;}
+p.foot{text-align:right;font-style:italic;color:black; font-size:70%;}
+p.parametri{text-align:left}
+p.faq{text-align:left}
+p{text-align:center;color:black;}
+
+
+#header {border: medium groove Aqua; max-height:15%; min-height:10%; background-color:Aqua;}
+#menu {float: left; border-color: Blue; border-style: groove; border-width: medium; width:10%; max-height:100% }
+#content{margin-left:10%; min-height:70%; min-width:85%;}
+#footer{ clear: both; border-top:medium groove Aqua; max-height:15%; min-height:10%;}
+
+a:link {color: red;}
+a:visited {color: purple;}
+a:active {color: yellow;}

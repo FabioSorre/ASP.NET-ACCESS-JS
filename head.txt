@@ -1,0 +1,2 @@
+<span class="nomeNegozio"> Computer Melody </span>
+<span class="fraseApertura"> prodotti informatici per tutti!</span>
